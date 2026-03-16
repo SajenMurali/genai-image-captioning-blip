@@ -85,9 +85,8 @@ demo.launch(share=True, server_port=int(os.environ['PORT2']))
 
 ### OUTPUT:
 
-<img width="1429" height="930" alt="image" src="https://github.com/user-attachments/assets/1c702af4-cf11-4012-bf1f-599615d72be3" />
-
-<img width="1331" height="863" alt="image" src="https://github.com/user-attachments/assets/eb707dd8-42cb-40be-9f84-974fcff1bac1" />
+![image alt](https://github.com/SajenMurali/genai-image-captioning-blip/blob/e13541c62060441642731eb0c196d9c9ed834901/WhatsApp%20Image%202026-03-16%20at%204.12.36%20PM.jpeg)
+![image alt](https://github.com/SajenMurali/genai-image-captioning-blip/blob/e13541c62060441642731eb0c196d9c9ed834901/WhatsApp%20Image%202026-03-16%20at%204.18.29%20PM.jpeg)
 
 
 
